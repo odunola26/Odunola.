@@ -1,6 +1,6 @@
 let Array=[];
    function wholenumber (data)
-{for (i=1; i<=data; i++){
+{for (let i=1; i<=data; i++){
     
     if(i%2==0 && i%3==0 && i%5==0){
     Array.push("yu-gi-oh");
